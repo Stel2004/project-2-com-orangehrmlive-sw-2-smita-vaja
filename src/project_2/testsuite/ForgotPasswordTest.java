@@ -1,11 +1,11 @@
-package project_2_browserfactory.testsuite;
+package project_2.testsuite;
 
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
-import project_2_browserfactory.BaseTest;
+import project_2.browserfactory.BaseTest;
 
 public class ForgotPasswordTest extends BaseTest {
 
